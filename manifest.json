@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Edunext Autograde Extension",
+  "name": "Edunext Autograde",
   "version": "1.0",
-  "description": "Edunext tự động vote cho thành viên khác",
+  "description": "Edunext tự động vote cho thành viên, hack sao comment",
   "permissions": ["activeTab", "tabs"],
   "action": {
     "default_popup": "popup.html",
